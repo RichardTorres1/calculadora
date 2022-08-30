@@ -24,7 +24,7 @@ func (calc) Operate(entrada string, operador string) int {
 	case "/":
 		return operador1 / operador2
 	default:
-		fmt.Println(operador, "no es soportading")
+		fmt.Println(operador, "no es soportadoo")
 		return 0
 
 	}
